@@ -1,3 +1,9 @@
+/*
+ * 날짜: 2026-07-14
+ * 문제: 이어 붙인 수
+ * URL: https://school.programmers.co.kr/learn/courses/30/lessons/181928
+ */
+
 class Solution {
     public int solution(int[] num_list) {
         StringBuilder odd = new StringBuilder();
