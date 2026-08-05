@@ -1,6 +1,6 @@
 /*
   날짜 : 2026-08-05
-  문제 : 진료 순서 정하
+  문제 : 진료 순서 정하기
   URL : https://school.programmers.co.kr/learn/courses/30/lessons/120835?language=java
 
 class Solution {
